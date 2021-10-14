@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "db-dxp-dealer-MIQ-mobile-application",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
