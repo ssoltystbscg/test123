@@ -14,8 +14,8 @@
       </ion-header>
     
       <div id="container">
-        <strong>Ready to create an app?</strong>
-        <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+        <strong>UNDER CONSTRUCTION</strong>
+        <p>This app is developed by the very best ATG2 team.</p>
       </div>
     </ion-content>
   </ion-page>
